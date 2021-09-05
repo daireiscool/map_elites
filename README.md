@@ -10,3 +10,4 @@ To better understand MAP-Elites (or Multi-dimensional Archive of Phenotypic Elit
 This is based on currently on @StefanoFioravanzo MAP-Elites code (url = https://github.com/StefanoFioravanzo/MAP-Elites).
 
 Initially will be a stand alone git repositary, bt in future would like to create a package to pip install.
+
