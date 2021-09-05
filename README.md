@@ -11,3 +11,4 @@ This is based on currently on @StefanoFioravanzo MAP-Elites code (url = https://
 
 Initially will be a stand alone git repositary, bt in future would like to create a package to pip install.
 
+![Alt text](images/map-elites.jpg?raw=true "MAP-Elites Image")
